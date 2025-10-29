@@ -1,0 +1,5 @@
+snowflake-connector-python>=3.0.0
+loguru>=0.6.0
+tqdm>=4.64.0
+fire>=0.4.0
+jsonlines>=3.0.0
