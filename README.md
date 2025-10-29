@@ -102,3 +102,7 @@ python create_tables.py spider2_mapping.jsonl \
   --role=YOUR_ROLE \
   --warehouse=YOUR_WAREHOUSE
 ```
+
+
+# Acknowledgement
+Special thanks to Canwen Xu for providing this code.
